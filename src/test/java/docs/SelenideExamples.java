@@ -1,4 +1,4 @@
-package Docs;
+package docs;
 
 import com.codeborne.selenide.*;
 
