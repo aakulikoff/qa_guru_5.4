@@ -73,5 +73,7 @@ public class PracticeFormWithJavaFakerTests {
         $x("//td[text()='Picture']").parent().shouldHave(text(picture));
         $x("//td[text()='Address']").parent().shouldHave(text(currentAddress));
         $x("//td[text()='State and City']").parent().shouldHave(text(state + " " + city));
+
     }
+
 }

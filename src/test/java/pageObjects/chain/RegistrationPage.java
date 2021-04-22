@@ -21,6 +21,8 @@ public class RegistrationPage {
             picture = "pic.jpeg",
             state = "NCR",
             city = "Delhi";
+    // TODO:  временно
+
 
     public RegistrationPage openPage() {
         open("https://demoqa.com/automation-practice-form");

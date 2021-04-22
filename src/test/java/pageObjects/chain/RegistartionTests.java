@@ -1,6 +1,6 @@
 package pageObjects.chain;
 
-import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.Test;
 
 public class RegistartionTests {
 
